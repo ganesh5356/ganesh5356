@@ -1,29 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=K%20Ganesh%20Kumar%20Rao&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=20&descAlignY=60" width="100%" alt="header" />
+<!-- New Twinkling Gradient Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2387,E94057,F27121&height=250&section=header&text=K%20Ganesh%20Kumar%20Rao&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20Developer&descSize=20&descAlignY=60" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=Java+%2B+Spring+Boot+backends;React+%2B+Vite+frontends;Flutter+mobile+apps;Exploring+ML+for+audio+and+images" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=E94057&center=true&vCenter=true&width=640&height=40&lines=Java+%2B+Spring+Boot+backends;React+%2B+Vite+frontends;Flutter+mobile+apps;Exploring+ML+for+audio+and+images" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Ballari%2C%20Karnataka-0D1117?style=for-the-badge&logo=googlemaps&logoColor=58A6FF" alt="location" />
-<img src="https://img.shields.io/badge/B.E.%20Computer%20Science-0D1117?style=for-the-badge&logo=academia&logoColor=58A6FF" alt="education" />
-<img src="https://komarev.com/ghpvc/?username=ganesh5356&label=Profile%20views&color=58A6FF&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/badge/Ballari%2C%20Karnataka-1E1E2E?style=for-the-badge&logo=googlemaps&logoColor=E94057" alt="location" />
+<img src="https://img.shields.io/badge/B.E.%20Computer%20Science-1E1E2E?style=for-the-badge&logo=academia&logoColor=F27121" alt="education" />
+<!-- Animated visitor badge -->
+<img src="https://komarev.com/ghpvc/?username=ganesh5356&label=Profile%20views&color=8A2387&style=for-the-badge&logo=github&logoColor=white" alt="views" />
 
 <br/><br/>
 
-<!-- Animated GitHub Trophies -->
+<!-- Radical Theme Trophies with breathing animation -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=ganesh5356&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&animation=1" alt="ganesh5356 trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ganesh5356&theme=radical&no-frame=true&no-bg=true&margin-w=15&animation=1" alt="ganesh5356 trophies" />
 </a>
 
 </div>
 
-<br/>
+<!-- Animated Rainbow Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face.png" alt="Winking Face" width="25" height="25" /> About
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Fire.png" alt="Fire" width="25" height="25" /> About Me
 
 Computer Science Engineering student who builds full stack applications end to end: REST APIs, relational and cloud databases, authentication, and real-time features. I use AI tools as part of my workflow and focus on the design, debugging, and review around them.
 
@@ -33,35 +36,35 @@ Computer Science Engineering student who builds full stack applications end to e
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Tech stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,js,dart,html,css&theme=dark" alt="languages" />
+<!-- Switched to per-line icon configuration for a more structured grid -->
+<img src="https://skillicons.dev/icons?i=java,spring,python,django,flask,fastapi&theme=dark" alt="backend" />
 <br/>
-<img src="https://skillicons.dev/icons?i=react,vite,flutter,django,flask,fastapi&theme=dark" alt="frameworks" />
+<img src="https://skillicons.dev/icons?i=js,react,vite,flutter,dart,html,css&theme=dark" alt="frontend" />
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,firebase,supabase&theme=dark" alt="data" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,firebase,supabase&theme=dark" alt="databases" />
 <br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,git,github,maven,postman,netlify,vscode&theme=dark" alt="tools" />
+<img src="https://skillicons.dev/icons?i=tensorflow,git,github,maven,postman,vscode&theme=dark" alt="tools" />
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> Featured projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [Smart Vendor & Procurement System](https://github.com/ganesh5356/smart_vendor-procurement)
+### [Smart Vendor & Procurement](https://github.com/ganesh5356/smart_vendor-procurement)
 Vendor onboarding, purchase requisitions, and purchase orders. Built during my Java Full Stack internship.
 
 - JWT auth with roles: Admin, Finance, PR, Vendor
 - POs exported as PDF and Excel
 - Scheduled daily/weekly email reports
-- Flyway migrations, Swagger-documented API
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -74,13 +77,11 @@ Vendor onboarding, purchase requisitions, and purchase orders. Built during my J
 Identifies enrolled speakers from uploaded audio or live microphone input.
 
 - BiLSTM on MFCC features, served by a Flask API
-- Confidence levels with an "unknown speaker" fallback
 - Probability distribution chart in the React UI
 - Wav2Vec2 (ONNX) check for authentic vs. synthetic voice
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 </td>
@@ -88,13 +89,12 @@ Identifies enrolled speakers from uploaded audio or live microphone input.
 <tr>
 <td width="50%" valign="top">
 
-### [Real-Time Chat & Video Calling](https://github.com/ganesh5356/Chat_App) · [Live demo](https://kinetrexa-chat-app-42cb0.web.app/)
+### [Real-Time Chat App](https://github.com/ganesh5356/Chat_App)
 Cross-platform messaging app built with Flutter.
 
 - Firestore real-time messaging, FCM notifications
 - 1-on-1 audio/video calls through ZegoCloud
 - Voice messages, media sharing, biometric lock
-- Light and dark themes
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -108,61 +108,33 @@ Travel companion for destination discovery, weather, and hotel booking.
 - Riverpod state management
 - Supabase PostgreSQL with row-level security
 - Live weather from the Open-Meteo API
-- Separate admin portal for listings and revenue metrics
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### [NotesBridge](https://github.com/ganesh5356/Django_notesbridge_zip)
-Seniors share study material with juniors, organized by department, semester, and subject.
-
-- Role-based permissions, doubts and replies, bookmarks
-- Download tracking
-- Q&A assistant powered by Gemini 2.0 Flash
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### [AgriVision](https://github.com/ganesh5356/crops_analyzer_project)
-Land-cover classification on EuroSAT satellite imagery.
-
-- Transfer learning: MobileNetV2, ResNet50, EfficientNetB0
-- 10 land-use classes
-- Streamlit dashboard for image upload and prediction
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-</td>
-</tr>
 </table>
 
-**Also built:** [LegalEase](https://github.com/ganesh5356/Gen_Ai_Project) (Gemini-based legal document generator, FastAPI + Streamlit) · [SkillSync AI](https://github.com/ganesh5356/SkillSync) (Django career-readiness prototype) · [Metro Ticket Booking](https://github.com/ganesh5356/ServiceNow_Metro_ticket_booking) (ServiceNow capstone)
+**Also built:** [NotesBridge](https://github.com/ganesh5356/Django_notesbridge_zip) (Gemini Q&A) · [AgriVision](https://github.com/ganesh5356/crops_analyzer_project) (Transfer Learning) · [LegalEase](https://github.com/ganesh5356/Gen_Ai_Project) (Gemini Legal Gen)
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" /> GitHub stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" /> Analytics & Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ganesh5356&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh5356&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" alt="top languages" />
+<!-- Switched theme to "radical" for pink/purple neon hues, and changed top-langs to a donut chart -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ganesh5356&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh5356&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&langs_count=5" alt="top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=ganesh5356&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=ganesh5356&theme=radical&hide_border=true&background=0D1117" alt="streak" />
 
 <br/>
 
-<!-- Animated Contribution Snake -->
+<!-- Animated Contribution Snake (requires snk GitHub Action to function) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ganesh5356/ganesh5356/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ganesh5356/ganesh5356/output/github-contribution-grid-snake.svg">
@@ -171,20 +143,26 @@ Land-cover classification on EuroSAT satellite imagery.
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ganesh5356&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" width="100%" alt="activity graph" />
-
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ganesh5356&theme=radical&hide_border=true&bg_color=0D1117&area=true" width="100%" alt="activity graph" />
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Connect
+<!-- Animated Developer Quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Animated Developer Quote" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/khamitkarganeshkumar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-<a href="mailto:khamitkarganeshkumar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/khamitkarganeshkumar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+<a href="mailto:khamitkarganeshkumar@gmail.com"><img src="https://img.shields.io/badge/Email-E94057?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/ganesh5356?tab=repositories"><img src="https://img.shields.io/badge/All%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" alt="footer" />
+<!-- Matching Gradient Footer with new wave shape -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=F27121,E94057,8A2387&height=120&section=footer" width="100%" alt="footer" />
